@@ -1,0 +1,44 @@
+{
+"short_name": "DAI Builds",
+"name": "DAI Builds - Mobile Web App",
+"description": "Mobile Web App - DAI Builds Digital Agency",
+"start_url": "index.html",
+"background_color": "#333",
+"theme_color": "#5b61cf",
+"display": "standalone",
+"icons": [
+{
+"src": "//www.daibuilds.com/uploads/icon-128.png",
+"type": "image/png",
+"sizes": "128x128"
+},
+{
+"src": "//www.daibuilds.com/uploads/icon-152.png",
+"type": "image/png",
+"sizes": "152x152"
+},
+{
+"src": "//www.daibuilds.com/uploads/icon-144.png",
+"type": "image/png",
+"sizes": "144x144"
+},
+{
+"src": "//www.daibuilds.com/uploads/icon-192.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "//www.daibuilds.com/uploads/icon-256.png",
+"type": "image/png",
+"sizes": "256x256"
+},
+{
+"src": "//www.daibuilds.com/uploads/icon-512.png",
+"type": "image/png",
+"sizes": "512x512"
+}],
+"related_applications": [{
+  "platform": "",
+  "url": ""
+}]
+}

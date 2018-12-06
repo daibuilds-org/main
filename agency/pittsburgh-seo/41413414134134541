@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<title>Best SEO Services in Pittsburgh | DAI Builds Digital Agency</title>
+	<link href="https://www.daibuilds.com" rel="canonical"/>
+	<meta name="description" content="Full-service Digital Agency located in Pittsburgh, We are built for the now. Offering Web Design, Web Development, Mobile Web Apps, Social Media Automation, SEO and Digital Marketing. We have you covered in all aspects of your digital presence. We apply modern technologies and assure full compatibility with old tech to make sure that your clients don't miss out on anything!" />
+	<meta name="keywords" content="Pittsburgh web design, Pittsburgh web development, Pittsburgh SEO, Pittsurgh mobile application development, Pittsburgh social media marketing, Pittsburgh social media management, Pittsburgh digital marketing, Pittsburgh digital agency" />
+	<meta content="Roberto Iriondo" name="author"/>
+	<meta property="og:title" content="DAI Builds - Pittsburgh Digital Agency - Marketing &amp; Advertising, Web Design &amp; Development">
+	<meta property="og:site_name" content="DAI Builds - Pittsburgh Digital Agency - Web Design &amp; Development, Marketing &amp; Advertising">
+	<meta property="og:description" content="Pittsburgh full-service digital agency, offering the best Search Engine Optimization, Digital Marketing Automation, Web Design, Web Development, Social Media Marketing, Social Media Automation, Google Adwords and Advertising Services.">
+	<meta property="og:image" content="https://www.daibuilds.com/img/og-img.jpg">
+	<meta property="og:url" content="https://www.daibuilds.com/">
+	<meta content="website" property="og:type"/>
+	<meta name="twitter:site" content="Web Design &amp; Development">
+	<meta name="twitter:title" content="DAI Builds - Pittsburgh Digital Agency - Web Design &amp; Development, Marketing &amp; Advertising">
+	<meta name="twitter:description" content="Pittsburgh full-service digital agency, offering the best Search Engine Optimization, Digital Marketing Automation, Web Design, Web Development, Social Media Marketing, Social Media Automation, Google Adwords and Advertising Services">
+	<meta name="twitter:image" content="https://www.daibuilds.com/img/og-img.jpg">
+	<meta name="twitter:image:alt" content="DAI Builds - Best Digital Agency in Pittsburgh providing the best seo, web design, web development, digital marketing, social media automation, and advertising services.">
+	<meta name="twitter:card" content="social_media_image">
+	<meta name="google-site-verification" content="e8Vja9zV-xs1KK8LH4MBBjcSQ789Sv0P-eCr4VpRT_Q" />
+	<link rel="shortcut icon" href="../img/fav.png">
+	<meta name="theme-color" content="#5b61cf"/>
+	<meta content="#5b61cf" name="msapplication-TileColor"/>
+	<meta content="//daibuilds.com/files/favicon.png" name="msapplication-TileImage"/>
+	<link href="//daibuilds.com/files/favicon.ico" rel="icon"/>
+	<link href="//daibuilds.com/files/favicon.png" rel="apple-touch-icon-precomposed"/>
+	<link rel="manifest" href="/manifest.json">
+	<script type="application/ld+json">
+	{  "@context": "//schema.org",
+			"@type": "Organization",
+			"name" : "DAI Builds LLC - Digital Agency located in Pittsburgh",
+			"url" : "//www.daibuilds.com",
+			"logo" : "//www.daibuilds.com/files/logo_teal.png",
+			"address" : {
+				"@type": "PostalAddress",
+				"addressCountry": "United States",
+				"addressLocality": "Pittsburgh",
+				"addressRegion": "PA",
+				"postalCode": "15143",
+				"streetAddress": "431 Beaver St"
+				},
+			"numberOfEmployees": "10",
+			"email" : "mailto:contact@daibuilds.com",
+			"sameAs" : [
+				"//www.facebook.com/daibuilds",
+				"//twitter.com/daibuilds",
+				"//www.instagram.com/daibuilds",
+				"//www.linkedin.com/company/daibuilds",
+			],
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "//www.daibuilds.com/search/?q={search_term}",
+				"query-input": "required name=search_term"
+			}
+		}
+	</script>
+	<!-- CSS and Fonts -->
+	<link rel="stylesheet" href="../css/bootstrap.css" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="../css/bootstrap.css">
+	</noscript>
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins:300,500,600" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins:300,500,600">
+	</noscript>
+	<link rel="stylesheet" href="../css/owl.carousel.css" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="../css/owl.carousel.css">
+	</noscript>
+	<link rel="stylesheet" href="../css/animate.css" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="../css/animate.css">
+	</noscript>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+	</noscript>
+	<link rel="stylesheet" href="//cdn.linearicons.com/free/1.0.0/icon-font.min.css" media="none" onload="if(media!='all')media='all'">
+	<noscript>
+			<link rel="stylesheet" href="//cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+	</noscript>
+	<link rel="stylesheet" href="//www.daibuilds.com/main.css">
+	<!-- JS -->
+	<script src='//www.google.com/recaptcha/api.js' defer></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-98621760-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	</head>
+	<body>
+		<div id="pittsburgh-digital-agency-home"></div>
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="home"></a>
+		<!-- Start Header Area -->
+		<header class="default-header">
+			<div class="sticky-header">
+				<div class="">
+					<div class="header-content d-flex justify-content-between align-items-center">
+						<div class="logo">
+							<a title="DAI Builds LLC - Best Digital Agency in Pittsburgh, PA - Web Design, Web Development, Web Application Development, Mobile Apps" href="#pittsburgh-digital-agency-home" class="smooth"><img src="../files/logo.png" alt="DAI Builds LLC - Digital Agency in Pittsburgh - Logo"></a>
+						</div>
+						<div class="right-bar d-flex nav-logo align-items-center">
+							<nav class="d-flex align-items-center">
+								<ul class="main-menu">
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Home" href="#pittsburgh-digital-agency-home">Home</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Services" href="#pittsburgh-web-development-services">Services</a></li>
+									<li><a href="#pittsburgh-web-development-clients">Clients</a></li>
+									<!-- <li><a href="#pittsburgh-website-development-team">Team</a></li> -->
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Clients" href="#pittsburgh-digital-agency-about-us">About</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Contact us" href="#pittsburgh-web-design-contact">Contact</a></li>
+								</ul>
+								<a title="Navigation Menu Button for DAI Builds - Digital Agency in Pittsburgh" href="#" class="mobile-btn"><span class="lnr lnr-menu"></span></a>
+							</nav>
+							<!-- <div class="search relative">
+								<span class="lnr lnr-magnifier"></span>
+								<form action="#" class="search-field">
+									<input type="text" placeholder="Search here" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search here'">
+									<button class="search-submit"><span class="lnr lnr-magnifier"></span></button>
+								</form>
+							</div> -->
+							<div class="header-social d-flex align-items-center">
+								<a title="Pittsburgh Web Design - Digital Agency DAI Builds LLC Instagram" href="//www.instagram.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a>
+								<a title="Pittsburgh Web Development - Digital Agency DAI Builds LLC LinkedIn" href="//linkedin.com/company/daibuilds" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a>
+								<a title="Pittsburgh Web App Development - Digital Agency DAI Builds LLC Facebook Page" href="//facebook.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a>
+								<a title="Pittsburgh Mobile Developer - Digital Agency DAI Builds LLC Twitter Page" href="//twitter.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a>
+								<a title="Pittsburgh Digital Marketing - Digital Agency DAI Builds LLC Email us" href="mailto:contact@daibuilds.com"><i class="fa fa-envelope"></i></a>
+								<a title="Pittsburgh Digital Consultant - Digital Agency DAI Builds LLC Call us" href="tel:4122126443"><i class="fa fa-phone"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- End Header Area -->
+		<!-- Start Banner Area -->
+		<section class="banner-area relative">
+			<div class="overlay overlay-bg"></div>
+			<div class="container">
+				<div class="row fullscreen justify-content-center align-items-center">
+					<div class="col-lg-8">
+						<div class="banner-content text-center">
+							<p class="text-uppercase text-white">Work hard, play hard.<br><strong>We aim for perfection and results.</strong></p>
+							<img alt="Do What You Love - We work hard so that you focus on what matters." class="passion" src="../files/passion.png">
+							<div class="white white-h9">
+							<p>You are here to:</p>
+						  <h9>Enhace your online presence</h9><br><br>
+							</div>
+							<p style="color: #fff;">We've helped over 100 organizations accomplish exactly that.</p>
+							<a href="#pittsburgh-web-design-clients" class="primary-btn banner-btn">See our Work</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Banner Area -->
+		<!-- Start About Area -->
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="about"></a>
+		<div id="pittsburgh-digital-agency-about-us"></div>
+		<section class="section-full white blue-linear">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-10">
+						<div class="section-title text-center">
+							<a title="About the Best Digital Web Design &amp; Development Agency in Pittsburgh" href="/index.html#pittsburgh-web-design-about-us"></a>
+							<h2 class="text-black h1" style="padding: 1em;">About us</h2>
+							<h3>We are a full-service digital agency built for the now. From website design &amp; development, to mobile web apps, SEO &amp; digital marketing. We have you covered in all possible aspects of your online presence.<br>We apply modern technologies &amp; assure full compatibility with old tech to make sure that your clients don't miss out on anything!<br><br>
+							Need to maximize results?<br><strong>Let's get it done!</strong></h3>
+							<a href="#pittsburgh-web-design-contact" class="primary-btn cool-btn">Get Started</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="offerings"></a>
+		<div id="pittsburgh-web-development-services"></div>
+		<section class="section-full gray-bg">
+			<div class="container">
+				<div class="section-title text-center">
+					<a title="About the Best Digital Web Design &amp; Development Agency in Pittsburgh" href="/index.html#pittsburgh-web-design-about-us"></a>
+					<h2 class="text-black h1" style="padding: 1em;">Our Services</h2>
+					<h3></h3>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="../img/s1.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">Web Design &amp; Development</h5>
+								<p>We integrate with the most cutting edge design, implementing front-end engineering techniques, not only impacting your end customers but our websites are blazing fast.</p>
+								<a href="#pittsburgh-web-design-contact" class="primary-btn d-inline-flex align-items-center">Get a quote<span class="lnr lnr-arrow-right"></span></a>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="../img/s2.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">Mobile Web App Development</h5>
+								<p>We build mobile web apps engineered with native mobile devices in mind, these are compatible with Android, iOS and can be deployed to the Android/iOS appstores natively.</p>
+								<a href="#pittsburgh-web-design-contact" class="primary-btn d-inline-flex align-items-center">Get a quote<span class="lnr lnr-arrow-right"></span></a>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="../img/s3.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">SEO &amp; Digital Marketing</h5>
+								<p>We optimize websites for SEO, Digital Marketing Content &amp; we also offer Digital Marketing Automation for your Social Media Platforms to exponentially grow your organic reach and followers.</p>
+								<a href="#pittsburgh-web-design-contact" class="primary-btn d-inline-flex align-items-center">Get a quote<span class="lnr lnr-arrow-right"></span></a>
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End About Area -->
+		<!-- Start Cta Area -->
+		<section class="cta-area">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8 d-flex no-flex-xs justify-content-between align-items-center">
+						<h5 class="text-uppercase text-white fz-18">Make your idea a reality!</h5>
+						<a href="#pittsburgh-web-design-contact" class="primary-btn d-inline-flex text-uppercase text-white align-items-center">Let's Chat<span class="lnr lnr-arrow-right"></span></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Cta Area -->
+		<!-- Start Product Area -->
+		<section id="services" class="title-bg section-full">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<h2 class="text-white h1">Why are we different?</h2>
+							<p class="text-white text-uppercase pt-20">We involve with our clients fully offering people oriented services, we service everyone (Individuals, small businesses to corporate offices), we offer a transparent and honest pricing - our team is really passionate for what we do, before starting we will review every key-point to make sure that you are fully comfortable</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-product">
+							<div class="icon">
+								<span class="lnr lnr-star"></span>
+							</div>
+							<div class="desc white">
+								<h4>Best UX/UI</h4>
+								<p>5 years of design experience that strive to be impactful and cutting edge.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-product">
+							<div class="icon">
+								<span class="lnr lnr-magic-wand"></span>
+							</div>
+							<div class="desc white">
+								<h4>5+</h4>
+								<p>Years of programming experience with front-end and back-end frameworks.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-product">
+							<div class="icon">
+								<span class="lnr lnr-sun"></span>
+							</div>
+							<div class="desc white">
+								<h4>World Class<br>Software-Architecture</h4>
+								<p>Our work is fully documented, if you ever need to take your development in-house it'll be a breeze to do so.!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-product">
+							<div class="icon">
+								<span class="lnr lnr-layers"></span>
+							</div>
+							<div class="desc white">
+								<h4>100% Responsive</h4>
+								<p>Regardless of your clients' choice of device, your app or website will look beautiful and accessible with each session.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Product Area -->
+		<!-- Start Progress Bar Area -->
+		<div id="pittsburgh-digital-agency-our-skills" class="product-area-title text-center pt-25">
+			<h2 class="text-black h1">Our Skills</h2>
+		</div>
+		<div class="container pt-50">
+			<div class="row">
+				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
+					<div class="list text-center">
+						<div class="list-item">
+							<div class="progressBar progressBar--animateNone" data-progress="99">
+								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
+								</svg>
+								<span class="progressBar-percentage progressBar-percentage-count"></span>
+							</div>
+						</div>
+						<p class="text-uppercase">Responsive<br>Web Development</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
+					<div class="list text-center">
+						<div class="list-item">
+							<div class="progressBar progressBar--animateText" data-progress="90">
+								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
+								</svg>
+								<span class="progressBar-percentage progressBar-percentage-count"></span>
+							</div>
+						</div>
+						<p class="text-uppercase">UI/UX Design &amp;<br>Development</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
+					<div class="list text-center">
+						<div class="list-item">
+							<div class="progressBar progressBar--animateCircle" data-progress="80">
+								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
+								</svg>
+								<span class="progressBar-percentage progressBar-percentage-count"></span>
+							</div>
+						</div>
+						<p class="text-uppercase">Mobile Web App<br>Development</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
+					<div class="list text-center">
+						<div class="list-item">
+							<div class="progressBar progressBar--animateText" data-progress="90">
+								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
+									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
+								</svg>
+								<span class="progressBar-percentage progressBar-percentage-count"></span>
+							</div>
+						</div>
+						<p class="text-uppercase">Whitehat SEO &amp; Digital Content Marketing Strategies</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Progress Bar Area -->
+		<!-- Start shuffle Area -->
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="clients"></a>
+		<div id="pittsburgh-web-design-clients"></div>
+		<section id="pittsburgh-web-development-clients" class="section-full white">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<h2 class="h1">Some of Our Clients</h2>
+							<p class="text-uppercase text-white">Recognized Within Pittsburgh &amp; the Globe<br>For our Top Notch Services</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="controls d-flex flex-wrap justify-content-center">
+					<a class="filter active" data-filter="all">All</a>
+					<a class="filter" data-filter=".category-3">Digital Marketing</a>
+					<a class="filter" data-filter=".category-5">Web Design &amp; Development</a>
+					<a class="filter" data-filter=".category-6">Growth Hacking</a>
+					<a class="filter" data-filter=".category-4">Mobile Web Apps</a>
+				</div>
+			</div>
+			<div id="filter-content" class="row no-gutters mt-70">
+				<div class="mix category-1 category-3 category-6 category-5 category-4 col-lg-3 col-md-4 col-sm-6 single-filter-content content-0" data-myorder="1">
+					<div class="img-background img-content-0"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Mobile App Development, Automation, Digital Marketing, SEO &amp; Adwords</p>
+						<div class="line"></div>
+						<a class="text-white text-uppercase" title="Working tirelessly to make Machine Learning at Carnegie Mellon University #1 Digitally Around the Globe on every aspect of ther online presence." href="//www.ml.cmu.edu" target="_blank" rel="noopener">Machine Learning - Carnegie Mellon University</a>
+					</div>
+				</div>
+				<div class="mix category-3 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-1" data-myorder="1">
+				  <div class="img-background img-content-1"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Digital Marketing &amp; Growth Hacking</p>
+						<div class="line"></div>
+						<a class="text-white text-uppercase" title="Exponentially grew CityJott's digital exposure via Digital Marketing &amp; Social Media Whitehat Strategies in Pittsburgh." href="http://www.cityjott.com" target="_blank" rel="noopener">CityJott</a>
+					</div>
+				</div>
+				<div class="mix category-3 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-12" data-myorder="2">
+					<div class="img-background img-content-2"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Digital Marketing &amp; Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Illume Pittsburgh's digital exposure via Digital Marketing &amp; Social Media Whitehat Strategies in Pittsburgh." href="http://www.illumepittsburgh.com" target="_blank" rel="noopener">Illume Pittsburgh</a>
+					</div>
+				</div>
+				<div class="mix category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-3" data-myorder="3">
+					<div class="img-background img-content-3"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Website Design &amp; Development</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed responsive website for Gran Agave Mexican Restaurant in Pittsburgh." href="http://www.granagave.com" target="_blank" rel="noopener">Gran Agave Mexican Restaurant</a>
+					</div>
+				</div>
+				<div class="mix category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-4" data-myorder="4">
+					<div class="img-background img-content-4"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Steel City Salt Company's digital exposure via Whitehat Automation Strategies in Pittsburgh." href="http://steelcitysalt.com/" target="_blank" rel="noopener">SteelCity Salt Company</a>
+					</div>
+				</div>
+				<div class="mix category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-5" data-myorder="5">
+					<div class="img-background img-content-5"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Pillar Wellness's digital exposure via Digital Marketing &amp; Social Media Whitehat Strategies in Pittsburgh." href="http://www.pillarwellness.com" target="_blank" rel="noopener">Pillar Wellness</a>
+					</div>
+				</div>
+				<div class="mix category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-6" data-myorder="6">
+					<div class="img-background img-content-6"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Development</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed responsive website for International Real Estate Consulting LLC in Pittsburgh." href="http://www.412cityrentals.com" target="_blank" rel="noopener">IREC LLC</a>
+					</div>
+				</div>
+				<div class="mix category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-7" data-myorder="7">
+					<div class="img-background img-content-7"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Reese Youngn's digital exposure via Digital Marketing &amp; Social Media Whitehat Strategies in Pittsburgh." href="http://www.instagram.com/reeseyoungn/" target="_blank" rel="noopener">Reese Youngn, Rapper</a>
+					</div>
+				</div>
+				<div class="mix category-5 category-4 col-lg-3 col-md-4 col-sm-6 single-filter-content content-8" data-myorder="8">
+					<div class="img-background img-content-8"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Development</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed WordPress responsive website for Emobe Inc. a company from Brazil." href="http://www.emobe.io" target="_blank" rel="noopener">Emobe</a>
+					</div>
+				</div>
+				<div class="mix category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-7" data-myorder="9">
+					<div class="img-background img-content-9"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Development</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed responsive website for Big Stacks Entertainment in Pittsburgh." href="http://www.bserunit.com" target="_blank" rel="noopener">Big Stacks Entertainment TM</a>
+					</div>
+				</div>
+				<div class="mix category-3 category-5 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-10" data-myorder="10">
+					<div class="img-background img-content-10"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Development, Growth Hacking &amp; Digital Marketing</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed responsive website for Makeup by Sary in Pittsburgh." href="http://www.makeupbysary.com" target="_blank" rel="noopener">Makeup by Sary</a>
+					</div>
+				</div>
+				<div class="mix category-5 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-11" data-myorder="11">
+					<div class="img-background img-content-11"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Web Design &amp; Development, &amp; Google Adwords</p><div class="line"></div><a class="text-white text-uppercase" title="Designed and developed responsive website for DishOne LLC from Iowa." href="http://www.dishtvsales.com" target="_blank" rel="noopener">DishOne LLC</a>
+					</div>
+				</div>
+				<div class="mix category-6 category-3 col-lg-3 col-md-4 col-sm-6 single-filter-content content-2" data-myorder="12">
+					<div class="img-background img-content-12"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Digital Marketing &amp; Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Sunnyside Trading Company's digital exposure via Digital Marketing &amp; Social Media Whitehat Strategies." href="http://sunnysidetradingco.com/" target="_blank" rel="noopener">Sunnyside Trading Co</a>
+					</div>
+				</div>
+				<div class="mix category-6 category-5 category-3 col-lg-3 col-md-4 col-sm-6 single-filter-content content-12" data-myorder="13">
+					<div class="img-background img-content-13"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Digital Marketing, Web Development &amp; Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Pachamama Divine Connection's digital exposure via Digital Marketing and fixed issues with their eCommerce website in Pittsburgh." href="http://www.pachamamadc.com/" target="_blank" rel="noopener">Pachamama Divine Connection</a>
+					</div>
+				</div>
+				<div class="mix category-3 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-14" data-myorder="14">
+					<div class="img-background img-content-14"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Digital Marketing &amp; Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew Makine Chevrolet's digital exposure via Google Adwords and fixed SEO issues to help with their eCommerce website in Peru." href="http://www.makine.pe/" target="_blank" rel="noopener">Makine - Chevrolet</a>
+					</div>
+				</div>
+				<div class="mix category-6 category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-4" data-myorder="15">
+					<div class="img-background img-content-15"></div>
+					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
+						<p class="text-white">Growth Hacking</p><div class="line"></div><a class="text-white text-uppercase" title="Exponentially grew BangBangPGH's digital exposure via Whitehat Strategies on their social media platforms." href="http://www.instagram.com/bangbangpgh" target="_blank" rel="noopener">BangBang Pittsburgh</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End shuffle Area -->
+		<!-- Start Team member Area -->
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="team"></a>
+		<section id="pittsburgh-website-development-team" class="pb-150">
+			<div class="padding-2em">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<h2 class="h1">Leadership</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-member">
+							<div class="thumb relative" style="background: url(../img/pic.jpg);">
+								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
+									<p class="text-white">Roberto is a Peruvian born, Peruvian-American Entrepreneur, Frontend Engineer and Digital Marketing Consultant in Pittsburgh, PA that has served over 100 customers within Pittsburgh &amp; around the globe for their automation, marketing and development needs.</p>
+									<div class="line"></div>
+									<div class="social d-flex align-items-center justify-content-center">
+										<a title="Roberto Iriondo - Website" href="//www.robertoiriondo.com" target="_blank" rel="noopener" alt="Website"><i class="fa fa-globe"></i></a>
+										<a title="Roberto Iriondo - LinkedIn" href="//www.linkedin.com/in/robiriondo" target="_blank" rel="noopener" alt="Linkedin"><i class="fa fa-linkedin"></i></a>
+										<!-- <a title="Roberto Iriondo - Github"  href="//www.github.com/robiriondo" target="_blank" rel="noopener" alt="Github"><i class="fa fa-github"></i></a> -->
+										<a title="Roberto Iriondo - Instagram" href="//www.instagram.com/robiriondo" target="_blank" rel="noopener" alt="Instagram"><i class="fa fa-instagram"></i></a>
+										<a title="Roberto Iriondo - Facebook" href="//www.facebook.com/robiriondo" target="_blank" rel="noopener" alt="Facebook"><i class="fa fa-facebook"></i></a>
+										<a title="Roberto Iriondo - Twitter" href="//www.twitter.com/robiriondo" target="_blank" rel="noopener" alt="Twitter"><i class="fa fa-twitter"></i></a>
+										<a title="Roberto Iriondo - Email" href="mailto: contact@robertoiriondo.com" alt="Email me"><i class="fa fa-envelope"></i></a>
+										<a title="Roberto Iriondo - Phone" href="tel: 6505352703" alt="Call me"><i class="fa fa-phone"></i></a>
+									</div>
+								</div>
+							</div>
+							<div class="desc text-center">
+								<h5 class="text-uppercase"><a href="#">Roberto Iriondo</a></h5>
+								<p>Founder | Frontend Engineer<br>Digital Consultant</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6" style="display:none">
+						<div class="single-member">
+							<div class="thumb relative" style="background: url(img/t2.jpg);">
+								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
+									<p class="text-white">Roberto is a Peruvian born, Peruvian-American Entrepreneur, Frontend Engineer and Digital Marketing Consultant in Pittsburgh, PA that has served over 100 customers globally for their automation, marketing and development needs.</p>
+									<div class="line"></div>
+									<div class="social d-flex align-items-center justify-content-center">
+										<a href="#"><i class="fa fa-facebook"></i></a>
+										<a href="#"><i class="fa fa-twitter"></i></a>
+										<a href="#"><i class="fa fa-linkedin"></i></a>
+									</div>
+								</div>
+							</div>
+							<div class="desc text-center">
+								<h5 class="text-uppercase"><a href="#">Angel Munoz</a></h5>
+								<p>Application Development Manager</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Team member Area -->
+		<!-- Start Digital Studio -->
+		<section class="section-full studio-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="studio-content">
+							<p class="text-uppercase text-white">We create top class digital experiences</p>
+							<h2 class="h1 text-white text-uppercase mb-20">A Digital Consultancy Agency That Truly Has Your Back</h2>
+							<p class="text-white mb-30">We are a digital solutions consultancy that combines its human-centered design, strategy and agile full-stack development capabilities to power businesses and deliver engaging customer experiences. DAI Builds is a company of passionate problem solvers who put people first. We excel at cracking the toughest and most complex digital challenges with mastery of both forward-looking solutions and older legacy systems. But what really sets us apart is how we do it; with a down-to-earth, collaborative approach of engaging deeply with our customers to create elegant solutions that work for everyone.</p>
+							<a href="#pittsburgh-web-design-contact" class="primary-btn text-white d-inline-flex align-items-center">Get Started<span class="lnr lnr-arrow-right"></span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Digital Studio -->
+		<!-- Start Pricing Area
+		<section class="section-full">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<p class="text-uppercase">Creative People</p>
+							<h2 class="h1">Team work builds trust and <br> trust builds growth</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="single-pricing-table">
+							<div class="top">
+								<div class="head text-center">
+									<span class="lnr lnr-shirt"></span><br>
+									<h5 class="text-white text-uppercase">Standard</h5>
+								</div>
+								<div class="package text-center">
+									<div class="price">£199</div>
+									<span class="text-white">Per month</span>
+								</div>
+							</div>
+
+							<div class="bottom text-center">
+								<ul class="feature text-center">
+									<li>2.5 GB Photos</li>
+									<li>Secure Online Transfer</li>
+									<li>Unlimited Styles</li>
+									<li>Customer Service</li>
+									<li>Manual Backup</li>
+								</ul>
+								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="single-pricing-table">
+							<div class="top">
+								<div class="head text-center">
+									<span class="lnr lnr-shirt"></span><br>
+									<h5 class="text-white text-uppercase">Business</h5>
+								</div>
+								<div class="package text-center">
+									<div class="price">£399</div>
+									<span class="text-white">Per month</span>
+								</div>
+							</div>
+
+							<div class="bottom text-center">
+								<ul class="feature text-center">
+									<li>2.5 GB Photos</li>
+									<li>Secure Online Transfer</li>
+									<li>Unlimited Styles</li>
+									<li>Customer Service</li>
+									<li>Manual Backup</li>
+								</ul>
+								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="single-pricing-table">
+							<div class="top">
+								<div class="head text-center">
+									<span class="lnr lnr-apartment"></span>
+									<h5 class="text-white text-uppercase">Ultimate</h5>
+								</div>
+								<div class="package text-center">
+									<div class="price">£499</div>
+									<span class="text-white">Per month</span>
+								</div>
+							</div>
+
+							<div class="bottom text-center">
+								<ul class="feature text-center">
+									<li>2.5 GB Photos</li>
+									<li>Secure Online Transfer</li>
+									<li>Unlimited Styles</li>
+									<li>Customer Service</li>
+									<li>Manual Backup</li>
+								</ul>
+								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Pricing Area -->
+		<!-- Start Testimonial Area -->
+		<section class="section-full gray-bg">
+			<div id="pittsburgh-digital-agency-our-skills" class="product-area-title text-center">
+				<h2 class="text-black h1">Testimonials</h2>
+			</div>
+			<div class="testimonials">
+				<div class="active-testimonial-carousel">
+					<div class="single-testimonial">
+						<p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+						<p>Rob is an exceptional individual, I contacted him directly regarding the urgency to bring my companies online, he went above and beyond to get the job done, and complied with a tight timeline. Both websites were developed beautifully with great SEO.</p>
+						<div class="author text-center">
+							<h6 class="text-uppercase"><a href="#">Morgan Brum</a></h6>
+							<span>CEO, 412 City Rentals</span>
+						</div>
+					</div>
+					<div class="single-testimonial">
+						<p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+						<p>Had a fantastic experience working with DAI Builds - Our website is phenomenal and has increased our sales tremendously! We will definitely use their services in the future.</p>
+						<div class="author text-center">
+							<h6 class="text-uppercase"><a href="#">Mark F.</a></h6>
+							<span>Digital Consultant, Dish One LLC</span>
+						</div>
+					</div>
+					<div class="single-testimonial">
+						<!-- <img src="../img/ts3.png" class="img-circle" alt=""> -->
+						<p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+						<p>I had a great experience working with DAI Builds, my businesses in Tampa and Pittsburgh are now online and bringing leads and sales on a daily basis due to their hard work. Thank you guys!</p>
+						<div class="author text-center">
+							<h6 class="text-uppercase"><a href="#">Vicente F.</a></h6>
+							<span>Owner, Gran Agave</span>
+						</div>
+					</div>
+					<div class="single-testimonial">
+						<p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+						<p>I contacted DAI Builds for their website development service. They were able to complete the job before the deadline and satisfied the needs for my business. I have already received positive feedback from my costumers about my new website. I highly recommend their services.</p>
+						<div class="author text-center">
+							<h6 class="text-uppercase"><a href="#">Jesus Lazo</a></h6>
+							<span>IT Engineer, Facebook</span>
+						</div>
+					</div>
+					<div class="single-testimonial">
+						<p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+						<p>Rob is a very talented designer and does top notch work. I had the pleasure of managing him in an IT environment and he was nothing but superb in his work ethic and results. I highly recommend DAI BUILDS</p>
+						<div class="author text-center">
+							<h6 class="text-uppercase"><a href="#">Lee Price</a></h6>
+							<span>Sr. Manager, BNY Mellon</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Testimonial Area -->
+		<!-- Start Publish Area -->
+		<section id="blog" class="section-full">
+			<style>iframe#lightwidget{min-height:230px}@media screen and (max-width:450px){iframe#lightwidget{min-height:120px}}@media screen and (max-width:767px){iframe#lightwidget{min-height:200px}}</style>
+			<div class="">
+			<div class="row justify-content-center">
+			<div class="col-lg-8">
+			<div class="product-area-title text-center">
+			<h2 class="h1">Follow our <a title="DAI Builds LLC - Pittsburgh Web Design &amp; Development - Instagram Profile" href="#instagram" target="_blank" rel="noopener">Instagram Feed</a></h2>
+			</div>
+			</div>
+			</div>
+			<script>"use strict";!function(a,b){"use strict";if(a.hasOwnProperty("lightwidget"))return!1;var c=function(d){if(-1<d.indexOf("{"))return JSON.parse(d);var f=d.split(":");return{widgetId:f[2].replace("lightwidget_"),size:f[1]}};a.addEventListener("message",function(d){if(-1===["lightwidget.com","dev.lightwidget.com","cdn.lightwidget.com"].indexOf(d.origin.replace(/^https?:\/\//i,"")))return!1;var f=c(d.data);return!(0>=f.size)&&void[].forEach.call(b.querySelectorAll("iframe[src*=\"lightwidget.com/widgets/"+f.widgetId+"\"]"),function(g){g.style.height=f.size+"px"})},!1),a.lightwidget={}}(window,document);</script>
+			<div id="instagram_feed">
+			    <iframe title="Pittsburgh Web Design | Pittsburgh Web Development | Pittsburgh Mobile Web App Development - DAI Builds" id="lightwidget" src="https://cdn.lightwidget.com/widgets/c158fc98d1c956c08fb806bd7735b750.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow-x:hidden;"></iframe>
+			</div>
+			</div>
+		</section>
+		<!-- End Publish Area -->
+		<!-- Start Contact Area -->
+		<a title="Pittsburgh SEO - DAI Builds - Marketing &amp; Advertising Agency - Home" id="contact"></a>
+		<section id="pittsburgh-web-design-contact" class="section-full white">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<h2 class="h1">Get in touch</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 mt-30">
+						<p>Thank you&nbsp;for your interest in DAI Builds. You can drop us a quick message here, or&nbsp;head over to our <a href="proposal-request"><strong>proposal request form</strong></a>&nbsp;if&nbsp;you're interested in&nbsp;a project quote.</p>
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="address mt-20">
+									<h6 class="text-uppercase pt-0">Physical Address</h6>
+									<p><em>Hours by Appointment Only</em></p>
+									<p>431 Beaver St,<br>Pittsburgh, PA 15143<br></p>
+									<a title="DAI Builds - Best Digital Agency in Pittsburgh, PA - Web Design &amp; Development, Mobile Web App Development, Digital Marketing" href="//www.google.com/maps/dir/''/dai+builds+sewickley/data=!4m5!4m4!1m0!1m2!1m1!1s0x883460a9e128917b:0xd71cd574d2f08e86?sa=X&ved=0ahUKEwiaw7fouvfaAhVMn-AKHTcuAbUQ9RcImQEwDg">Get Directions</a>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="address mt-20">
+									<h6 class="text-uppercase mb-15">Let Us Help You<br>Think Outside the Box</h6>
+									<a title"Pittsburgh Digital Agency - DAI Builds LLC Email Address" href="mailto:contact@daibuilds.com">contact@daibuilds.com</a><br>
+									<a href="tel:4122126443">(412) 212-6443</a><br><br>
+									<div class="footer-social d-flex align-items-center">
+										<a title="Pittsburgh Web Design - Digital Agency DAI Builds LLC Instagram Page" id="instagram" href="//www.instagram.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a>
+										<a title="Pittsburgh Web Development - Digital Agency DAI Builds LLC LinkedIn Page" href="//linkedin.com/company/daibuilds" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a>
+										<a title="Pittsburgh Web App Development - Digital Agency DAI Builds LLC Facebook Page" href="//facebook.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a>
+										<a title="Pittsburgh Mobile Developer - Digital Agency DAI Builds LLC Twitter Page" href="//twitter.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a>
+										<a title="Pittsburgh Digital Marketing Agency - DAI Builds LLC Email Address" href="mailto:contact@daibuilds.com"><i class="fa fa-envelope"></i></a>
+										<a title="Pittsburgh Web Design &amp; Development - Digital Agency DAI Builds LLC Phone Number" href="tel:4122126443"><i class="fa fa-phone"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 mt-30">
+						<form id="myForm" action="//www.enformed.io/kop1jo4k" method="post" class="contact-form" name="mail" onsubmit="alert('Thank you kindly for your message, we will contact you shortly.');">
+							<div class="single-input color-2 mb-10">
+								<label for="name">Name</label>
+								<input type="text" name="name" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required>
+							</div>
+							<div class="single-input color-2 mb-10">
+								<label for="email">Email</label>
+								<input type="email" name="email" placeholder="Email Address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'" required>
+							</div>
+							<div class="single-input color-2 mb-10">
+								<label for="subject">Subject</label>
+								<input type="text" name="subject" placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
+							</div>
+							<div class="single-input color-2 mb-10">
+								<label for="message">Message</label>
+								<textarea name="message" placeholder="Type your message here..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type your message here...'" required></textarea>
+							</div>
+							<div class="g-recaptcha" data-sitekey="6Lehx1gUAAAAAPcsZu9g_z-exe_VRJFGdSkI4Weq" required></div>
+							<!-- <label for="redirect">Redirect</label>
+							<input id="redirect" type="hidden" name="*redirect" value="//www.daibuilds.com"> -->
+							<div class="d-flex justify-content-end"><button class="mt-10 primary-btn d-inline-flex text-uppercase align-items-center cool-btn">Send Message<span class="lnr lnr-arrow-right"></span></button></div>
+							<div class="alert"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Contact Area -->
+		<!-- Start Cta Area -->
+		<section class="cta-area">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8 d-flex no-flex-xs justify-content-between align-items-center">
+						<h5 class="text-uppercase text-white">Not yet convinced with our quality?</h5>
+						<a href="#pittsburgh-web-development-clients" class="primary-btn d-inline-flex text-uppercase text-white align-items-center">Explore Case Studies<span class="lnr lnr-arrow-right"></span></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Cta Area -->
+		<footer class="section-full contact">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-footer-widget">
+							<!-- <h6 class="text-white text-uppercase mb-20">About Agency</h6> -->
+							<div class="logo pb-15 ml-0">
+								<a title="DAI Builds LLC - Best Digital Agency in Pittsburgh, PA - Web Design, Web Development, Web Application Development, Mobile Apps" href="#pittsburgh-digital-agency-home" class="smooth"><img src="../files/logo.png" alt=""></a>
+							</div>
+							<p>We have over 5 years of experience on improving our clients' digital presence online, whether by applying digital organic automation to their social media profiles growing them exponentially, creating amazing and blazing fast websites and mobile apps, implementing creative content that triggers growth and helps your SEO, we use Whitehat techniques if you need to get your website SEO optimized.</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-footer-widget">
+							<h6 class="text-white text-uppercase mb-20">Navigation Links</h6>
+							<div class="d-flex">
+								<ul class="footer-nav">
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Home" href="#pittsburgh-digital-agency-home">Home</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Services" href="#pittsburgh-web-development-services">Services</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Clients" href="#pittsburgh-web-development-clients">Clients</a></li>
+								</ul>
+								<ul class="ml-30 footer-nav">
+									<!-- <li><a href="#pittsburgh-website-development-team">Team</a></li> -->
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - About us" href="#pittsburgh-digital-agency-about-us">About</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Contact us" href="#pittsburgh-web-design-contact">Contact</a></li>
+									<li><a title="Best SEO in Pittsburgh - DAI Builds - Marketing & Advertising Agency - Blog" href="//blog.daibuilds.com/#best-SEO-in-Pittsburgh" target="_blank" rel="noopener">Blog</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-footer-widget">
+							<h6 class="text-white text-uppercase mb-20">Newsletter</h6>
+							<p>Subscribe to our newsletter below by entering a valid email address:</p>
+							<div id="mc_embed_signup">
+								<form target="_blank" action="//www.enformed.io/kop1jo4k" method="post" novalidate action="//spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscription relative d-flex justify-content-center" onsubmit="alert('Thank you kindly for subscribing.');">
+									<label for="email">email</label>
+									<input type="email" name="email" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required>
+									<div style="position: absolute; left: -5000px;">
+									<label for="b_36c4fd991d266f23781ded980_aefe40901a">Validation</label>
+										<input type="text" name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="">
+									</div>
+									<button aria-label="Subsbrible to Our Newsletter - DAI Builds - Digital Agency in Pittsburgh" title"Subscribe to our Newsletter - DAI Builds - Digital Agency in Pittsburgh" type="submit" class="newsletter-btn" name="subscribe"><span class="lnr lnr-location"></span></button>
+									<!-- <button type="submit" class="g-recaptcha newsletter-btn" name="subscribe"
+									data-sitekey="6LegzVgUAAAAABhQuk2MqYSaf4FUMbJT2TSUXjJa"
+									data-callback="mail">
+									<span class="lnr lnr-location"></span>
+									</button> -->
+									<div class="info"></div>
+								</form>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-footer-widget">
+							<h6 class="text-white text-uppercase mb-20">Think Outside the Box</h6>
+							<div class="process">
+								<img src="../files/process.png" style="max-width: 100%;" alt="">
+							</div>
+								<!-- ul class="instafeed d-flex flex-wrap">
+									<li><img src="../img/i1.jpg" alt=""></li>
+									<li><img src="../img/i2.jpg" alt=""></li>
+									<li><img src="../img/i3.jpg" alt=""></li>
+									<li><img src="../img/i4.jpg" alt=""></li>
+									<li><img src="../img/i5.jpg" alt=""></li>
+									<li><img src="../img/i6.jpg" alt=""></li>
+									<li><img src="../img/i7.jpg" alt=""></li>
+									<li><img src="../img/i8.jpg" alt=""></li>
+								</ul> -->
+						</div>
+					</div>
+				</div>
+				<div class="footer-bottom d-flex justify-content-between align-items-center">
+					<p class="footer-text m-0">&copy; 2018 <a href="#">DAI Builds LLC</a></p>
+					<div class="footer-social d-flex align-items-center">
+						<a title="Pittsburgh Web Design - Digital Agency DAI Builds LLC Instagram" id="instagram" href="//instagram.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a>
+						<a title="Pittsburgh Web Development - Digital Agency DAI Builds LLC LinkedIn" id="linkedin" href="//linkedin.com/company/daibuilds" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a>
+						<a title="Pittsburgh Web App Development - Digital Agency DAI Builds LLC Facebook Page" id="facebook" href="//facebook.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a>
+						<a title="Pittsburgh Mobile Developer - Digital Agency DAI Builds LLC Twitter Page" id="twitter" href="//twitter.com/daibuilds" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a>
+						<a title="Pittsburgh Digital Marketing - Digital Agency DAI Builds LLC Email us" id="email" href="mailto:contact@daibuilds.com"><i class="fa fa-envelope"></i></a>
+						<a title="Pittsburgh Digital Consultant - Digital Agency DAI Builds LLC Call us" id="call" href="tel:4122126443"><i class="fa fa-phone"></i></a>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<a title="Pittsburgh Web Development - DAI Builds LLC - Back to Top Button" href="#" class="back-to-top"><i title="Pittsburgh Web Design - DAI Builds LLC - Back to Top Button" class="fa fa-chevron-up"></i></a>
+		<!-- Scripts -->
+		<script src="../js/tP.js" defer></script>
+		<script src="../js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" defer></script>
+		<script src="../js/vendor/bootstrap.min.js" defer></script>
+		<script src="../js/jquery.ajaxchimp.min.js" defer></script>
+		<script src="../js/jquery.sticky.js" defer></script>
+		<script src="../js/owl.carousel.min.js" defer></script>
+		<script src="../js/mixitup.min.js" defer></script>
+		<script src="../js/main.js" defer></script>
+		<script id="rcAlert">"use strict";window.onload=function(){var a=document.forms.mail["g-recaptcha-response"];a.required=!0,a.oninvalid=function(){alert("Please complete the captcha, otherwise the form won't be submitted.")}};</script>
+	</body>
+</html>

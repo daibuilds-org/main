@@ -1,0 +1,48 @@
+#robots.txt for https://www.daibuilds.com
+
+User-agent: *
+Disallow: /files/
+Disallow: /img/
+Disallow: /css/
+Disallow: /dev/
+Disallow: /js/
+Disallow: /uploads/
+Disallow: /backup_oldfiles_daibuilds.com/
+
+Allow: /
+Allow: /contact/
+Allow: /blog/
+Allow: /clients/
+Allow: /services/
+Allow: /about/
+Allow: /pittsburgh-seo-services/
+
+User-agent: AhrefsBot
+Disallow: /
+Crawl-Delay: 5
+
+User-agent: PhantomJS
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+Crawl-Delay: 5
+
+User-agent: Semrus
+Disallow: /
+Crawl-Delay: 5
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+Crawl-Delay: 5
+
+User-agent: crawl
+Disallow: /
+
+Sitemap: http://www.daibuilds.com/sitemap.xml
