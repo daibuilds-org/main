@@ -1,0 +1,24 @@
+{
+  "name": "daibuilds",
+  "version": "1.0.0",
+  "description": "Performance 85+ (90 Preferred) Best practices 90+",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daibuilds-org/main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daibuilds-org/main/issues"
+  },
+  "homepage": "https://github.com/daibuilds-org/main#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-critical": "^1.1.1"
+  }
+}
