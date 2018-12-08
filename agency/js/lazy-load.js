@@ -1,4 +1,3 @@
-// Lazy Load Script
 let options = {
   rootMargin: '500px',
 };
