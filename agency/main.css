@@ -1258,75 +1258,75 @@ td, th {
   opacity: 1;
 }
 
-.single-filter-content.content-0 {
+.single-filter-content.content-0.visible {
   background: url(img/c0.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-1 {
+.single-filter-content.content-1.visible {
   background: url(img/c1.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-2 {
+.single-filter-content.content-2.visible {
   background: url(img/c2.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-3 {
+.single-filter-content.content-3.visible{
   background: url(img/c3.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-4 {
+.single-filter-content.content-4.visible {
   background: url(img/c4.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-5 {
+.single-filter-content.content-5.visible {
   background: url(img/c5.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-6 {
+.single-filter-content.content-6.visible {
   background: url(img/c6.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-7 {
+.single-filter-content.content-7.visible {
   background: url(img/c7.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-8 {
+.single-filter-content.content-8.visible {
   background: url(img/c8.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-10 {
+.single-filter-content.content-10.visible {
   background: url(img/c10.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-11 {
+.single-filter-content.content-11.visible {
   background: url(img/c11.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-12 {
+.single-filter-content.content-12.visible {
   background: url(img/c12.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-13 {
+.single-filter-content.content-13.visible {
   background: url(img/c12.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-14 {
+.single-filter-content.content-14.visible {
   background: url(img/c13.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-15 {
+.single-filter-content.content-15.visible {
   background: url(img/c14.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-16 {
+.single-filter-content.content-16.visible {
   background: url(img/c15.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-17 {
+.single-filter-content.content-17.visible {
   background: url(img/c16.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-18 {
+.single-filter-content.content-18.visible {
   background: url(img/c17.jpg) no-repeat center center/cover;
 }
 
@@ -1986,83 +1986,83 @@ blockquote.instagram-media {
   }
 }
 
-div.img-content-0 {
+div.img-content-0.visible {
     background-image: url(files/clients/machine_learning.png);
 }
 
-div.img-content-1 {
+div.img-content-1.visible {
     background-image: url(files/clients/cityjott_orig.png);
 }
 
-div.img-content-2 {
+div.img-content-2.visible {
     background-image: url(files/clients/exhalepgh_white.png);
 }
 
-div.img-content-3 {
+div.img-content-3.visible {
     background-image: url(files/clients/granagave_white.png);
 }
 
-div.img-content-4 {
+div.img-content-4.visible {
     background-image: url(files/clients/steelcitysaltco_white.png);
 }
 
-div.img-content-5 {
+div.img-content-5.visible {
     background-image: url(files/clients/pillarwellness_white.png);
 }
 
-div.img-content-6 {
+div.img-content-6.visible {
     background-image: url(files/clients/irecllc_white.png);
 }
 
-div.img-content-7 {
+div.img-content-7.visible {
     background-image: url(files/clients/reese_white.png);
 }
 
-div.img-content-8 {
+div.img-content-8.visible {
     background-image: url(files/clients/emobe-white.png);
 }
 
-div.img-content-9 {
+div.img-content-9.visible {
     background-image: url(files/clients/bse_orig.png);
 }
 
-div.img-content-10 {
+div.img-content-10.visible {
     background-image: url(files/clients/makeupbysary_white.png);
 }
 
-div.img-content-11 {
+div.img-content-11.visible {
     background-image: url(files/clients/dishone_white.png);
 }
 
-div.img-content-12 {
+div.img-content-12.visible {
     background-image: url(files/clients/sunnyside_white.png);
 }
 
-div.img-content-13 {
+div.img-content-13.visible {
     background-image: url(files/clients/pachamamadc_white.png);
 }
 
-div.img-content-14 {
+div.img-content-14.visible {
     background-image: url(files/clients/makine.png);
 }
 
-div.img-content-15 {
+div.img-content-15.visible {
     background-image: url(files/clients/bangbangpgh_white.png);
 }
 
-div.img-content-16 {
+div.img-content-16.visible {
     background-image: url(files/clients/machine-learning-blog.png);
 }
 
-div.img-content-17 {
+div.img-content-17.visible {
     background-image: url(files/clients/the-colombian-spot.png);
 }
 
-div.img-content-18 {
+div.img-content-18.visible {
     background-image: url(files/clients/pisko-peruvian-gourmet.png);
 }
 
-div.img-content-19 {
+div.img-content-19.visible {
     background-image: url(files/clients/marvtek.png);
 }
 
