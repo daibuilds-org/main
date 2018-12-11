@@ -1,5 +1,5 @@
 let options = {
-  rootMargin: '500px',
+  rootMargin: '500px'
 };
 
 document.addEventListener("DOMContentLoaded", function() {
