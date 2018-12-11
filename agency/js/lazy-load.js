@@ -3,10 +3,10 @@ let options = {
 };
 
 document.addEventListener("DOMContentLoaded", function() {
-  let lazyBackgrounds = [].slice.call(document.querySelectorAll(".lazy-background"));
   let lazyImages = [].slice.call(document.querySelectorAll("img.lazy-image"));
+  let lazyBackgrounds = [].slice.call(document.querySelectorAll(".lazy-background"));
   
-  if("IntersectionObserver" in window) {
+  if ("IntersectionObserver" in window) {
     // Lazy Load Images
     let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
       entries.forEach(function(entry) {
